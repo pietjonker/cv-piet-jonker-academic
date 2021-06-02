@@ -25,8 +25,8 @@ experience:
   - title: Master thesis internship 
     company: Statistics Netherlands
     company_url: 'https://www.cbs.nl/en-gb'
-    company_logo: org-gc
-    location: California
+    company_logo: org-cbs
+    location: Den Haag
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
