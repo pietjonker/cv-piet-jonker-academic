@@ -37,7 +37,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Predicting travel mode (e.g. walking, train, car, bus) based on GPS data for the purpose of reducing respondent burden and increasing spatial and temporal precision in travel mode data compared with a commonly used alternative: diary-based studies.
+    description: Predicting travel mode
 design:
   columns: '2'
 ---
