@@ -25,12 +25,24 @@ experience:
   - title: Master thesis internship 
     company: Statistics Netherlands
     company_url: 'https://www.cbs.nl/en-gb'
-    company_logo: org-cbs
     company_logo: ''
     location: Den Haag
     date_start: '2020-08-01'
     date_end: '2021-07-01'
-    description: Hi
+  - title: Quantitative analyst (internship)
+    company: Atradius credit insurance
+    company_url: 'https://group.atradius.com/'
+    company_logo: ''
+    location: Amsterdam
+    date_start: '2020-06-01'
+    date_end: '2020-10-01'
+  - title: Master thesis student
+    company: Neurolytics (‘Start-up of the year award 2020’)
+    company_url: 'https://neurolytics.ai/'
+    company_logo: ''
+    location: Utrecht
+    date_start: '2019-01-01'
+    date_end: '2020-07-01'
 design:
   columns: '2'
 ---
