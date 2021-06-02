@@ -30,6 +30,7 @@ experience:
     location: Den Haag
     date_start: '2020-08-01'
     date_end: '2021-07-01'
+    description: Hi
 design:
   columns: '2'
 ---
