@@ -30,6 +30,14 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+  - title: Master thesis internship 
+    company: Statistics Netherlands
+    company_url: 'https://www.cbs.nl/en-gb'
+    company_logo: 
+    location: Den Haag
+    date_start: '2020-08-01'
+    date_end: '2021-07-01'
+    description: Predicting travel mode (e.g. walking, train, car, bus) based on GPS data for the purpose of reducing respondent burden and increasing spatial and temporal precision in travel mode data compared with a commonly used alternative: diary-based studies.
 design:
   columns: '3'
 ---
