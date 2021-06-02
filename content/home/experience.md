@@ -25,7 +25,7 @@ experience:
   - title: Master thesis internship 
     company: Statistics Netherlands
     company_url: 'https://www.cbs.nl/en-gb'
-    company_logo: 
+    company_logo: ''
     location: Den Haag
     date_start: '2020-08-01'
     date_end: '2021-07-01'
@@ -34,7 +34,7 @@ experience:
   - title: Quantitative analyst (internship)
     company: Atradius credit insurance
     company_url: 'https://group.atradius.com/'
-    company_logo: 
+    company_logo: ''
     location: Amsterdam
     date_start: '2020-06-01'
     date_end: '2020-10-01'
@@ -43,11 +43,11 @@ experience:
   - title: Master thesis student
     company: Neurolytics (‘Start-up of the year award 2020’)
     company_url: 'https://neurolytics.ai/'
-    company_logo: 
+    company_logo: ''
     location: Utrecht
     date_start: '2019-01-01'
     date_end: '2020-07-01'
     description: Innovative research in the field of computer vision applied to the recruitment process. The research was about finding a match between personality, company culture and job position using facial analysis and predictive models.
 design:
-  columns: '2'
+  columns: '3'
 ---
