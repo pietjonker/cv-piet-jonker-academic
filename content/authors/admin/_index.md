@@ -69,5 +69,3 @@ I am educated in cognition/neuroscience and methodology/statistics and currently
 In September I will start my career at a.s.r., where I will develop myself in the data science traineeship. 
 
 I am Interested in statistical advances, predictive modeling, data science and business analytics. Furthermore, I am experienced in writing mathematical documentation, statistical modeling, consultancy and coaching.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
