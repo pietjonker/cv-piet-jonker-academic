@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Master thesis internship 
     company: Statistics Netherlands
-    company_url: 'https://www.cbs.nl/en-gb'
+    company_url: ''
     company_logo: ''
     location: Den Haag
     date_start: '2020-08-01'
@@ -32,7 +32,7 @@ experience:
     description: Predicting travel mode (e.g. walking, train, car, bus) based on GPS data for the purpose of reducing respondent burden and increasing spatial and temporal precision in travel mode data compared with a commonly used alternative: diary-based studies.
   - title: Quantitative analyst (internship)
     company: Atradius credit insurance
-    company_url: 'https://group.atradius.com/'
+    company_url: ''
     company_logo: ''
     location: Amsterdam
     date_start: '2020-06-01'
@@ -40,7 +40,7 @@ experience:
     description: At Atradius I’ve been part of the team ‘Group Provisioning’. They create the modelled books so that the company sets apart enough to pay out claims, but retains enough to invest. I created mathematical documentation on statistical models using R andinvestigated feasibility of (bayesian) alternative statistical models.
   - title: Master thesis student
     company: Neurolytics (‘Start-up of the year award 2020’)
-    company_url: 'https://neurolytics.ai/'
+    company_url: ''
     company_logo: ''
     location: Utrecht
     date_start: '2019-01-01'
