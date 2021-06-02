@@ -29,7 +29,7 @@ experience:
     location: Den Haag
     date_start: '2020-08-01'
     date_end: '2021-07-01'
-    description: Predicting travel mode (e.g. walking, train, car, bus) based on GPS data.
+    description: Predicting travel mode
   - title: Quantitative analyst (internship)
     company: Atradius credit insurance
     company_url: 'https://group.atradius.com/'
@@ -37,7 +37,7 @@ experience:
     location: Amsterdam
     date_start: '2020-06-01'
     date_end: '2020-10-01'
-    description: Created mathematical documentation on statistical models using R
+    description: Created documentation on statistical models
   - title: Master thesis student
     company: Neurolytics (‘Start-up of the year award 2020’)
     company_url: 'https://neurolytics.ai/'
@@ -45,7 +45,7 @@ experience:
     location: Utrecht
     date_start: '2019-01-01'
     date_end: '2020-07-01'
-    description: Innovative research in the field of computer vision applied to the recruitment process
+    description: Research in computer vision applied to recruitment
 design:
   columns: '2'
 ---
