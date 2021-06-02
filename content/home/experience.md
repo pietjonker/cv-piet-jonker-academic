@@ -25,30 +25,27 @@ experience:
   - title: Master thesis internship 
     company: Statistics Netherlands
     company_url: 'https://www.cbs.nl/en-gb'
-    company_logo: 
+    company_logo: org-cbs
     location: Den Haag
     date_start: '2020-08-01'
     date_end: '2021-07-01'
-    description: |2- 
-    Predicting travel mode (e.g. walking, train, car, bus) based on GPS data for the purpose of reducing respondent burden and increasing spatial and temporal precision in travel mode data compared with a commonly used alternative: diary-based studies.
+    description: Predicting travel mode (e.g. walking, train, car, bus) based on GPS data.
   - title: Quantitative analyst (internship)
     company: Atradius credit insurance
     company_url: 'https://group.atradius.com/'
-    company_logo: 
+    company_logo: org-a
     location: Amsterdam
     date_start: '2020-06-01'
     date_end: '2020-10-01'
-    description: |2- 
-    At Atradius I’ve been part of the team ‘Group Provisioning’. They create the modelled books so that the company sets apart enough to pay out claims, but retains enough to invest. I created mathematical documentation on statistical models using R andinvestigated feasibility of (bayesian) alternative statistical models.
+    description: Created mathematical documentation on statistical models using R
   - title: Master thesis student
     company: Neurolytics (‘Start-up of the year award 2020’)
     company_url: 'https://neurolytics.ai/'
-    company_logo: 
+    company_logo: org-n
     location: Utrecht
     date_start: '2019-01-01'
     date_end: '2020-07-01'
-    description: |2-
-    Innovative research in the field of computer vision applied to the recruitment process. The research was about finding a match between personality, company culture and job position using facial analysis and predictive models.
+    description: Innovative research in the field of computer vision applied to the recruitment process
 design:
   columns: '2'
 ---
