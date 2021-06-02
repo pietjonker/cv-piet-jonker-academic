@@ -30,22 +30,6 @@ experience:
     date_start: '2020-08-01'
     date_end: '2021-07-01'
     description: Predicting travel mode
-  - title: Quantitative analyst (internship)
-    company: Atradius credit insurance
-    company_url: 'https://group.atradius.com/'
-    company_logo: org-a
-    location: Amsterdam
-    date_start: '2020-06-01'
-    date_end: '2020-10-01'
-    description: Created documentation on statistical models
-  - title: Master thesis student
-    company: Neurolytics (‘Start-up of the year award 2020’)
-    company_url: 'https://neurolytics.ai/'
-    company_logo: org-n
-    location: Utrecht
-    date_start: '2019-01-01'
-    date_end: '2020-07-01'
-    description: Research in computer vision applied to recruitment
 design:
   columns: '2'
 ---
