@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Master thesis internship 
     company: Statistics Netherlands
-    company_url: ''
+    company_url: 'https://www.cbs.nl/en-gb'
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
