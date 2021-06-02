@@ -30,12 +30,27 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-  - title: Master thesis internship 
-    company: Statistics Netherlands
-    location: Den Haag
-    date_start: '2020-08-01'
-    date_end: '2021-07-01'
-    description: Predicting travel mode (e.g. walking, train, car, bus) based on GPS data for the purpose of reducing respondent burden and increasing spatial and temporal precision in travel mode data compared with a commonly used alternative: diary-based studies.
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 design:
-  columns: '3'
+  columns: '2'
 ---
