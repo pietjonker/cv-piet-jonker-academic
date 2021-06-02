@@ -64,10 +64,10 @@ email: "piet.jonker@hotmail.com"
 highlight_name: false
 ---
 
-I am educated in cognition/neuroscience and methodology/statistics and currently doing the research master Methodology and Statistics. In September I will start my career at a.s.r., where I will develop myself in the data science traineeship. 
+I am educated in cognition/neuroscience and methodology/statistics and currently doing the research master Methodology and Statistics. 
+
+In September I will start my career at a.s.r., where I will develop myself in the data science traineeship. 
 
 I am Interested in statistical advances, predictive modeling, data science and business analytics. Furthermore, I am experienced in writing mathematical documentation, statistical modeling, consultancy and coaching.
 
-Skills: R (advanced), statistics/modeling (advanced), SQL (beginner/intermediate), Python (beginner) , GitHub (intermediate), Agile/Scrum methodology, MatLab (a while ago).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
