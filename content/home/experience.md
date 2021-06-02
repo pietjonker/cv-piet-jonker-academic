@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: Den Haag
     date_start: '2020-08-01'
-    date_end: '2021-07-01'
+    date_end: ''
     description: Predicting travel mode (e.g. walking, train, car, bus) based on GPS data for the purpose of reducing respondent burden and increasing spatial and temporal precision in travel mode data compared with a commonly used alternative: diary-based studies.
     
   - title: Quantitative analyst (internship)
