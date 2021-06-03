@@ -66,6 +66,6 @@ highlight_name: false
 
 I am educated in cognition/neuroscience and methodology/statistics and currently doing the research master Methodology and Statistics. 
 
-In September I will start my career at a.s.r., where I will develop myself in the data science traineeship. 
+In September I will start my career at **`a.s.r.`**, where I will develop myself in the **`data science traineeship`**. 
 
-I am Interested in statistical advances, predictive modeling, data science and business analytics. Furthermore, I am experienced in writing mathematical documentation, statistical modeling, consultancy and coaching.
+I am interested in statistical advances, predictive modeling, data science and business analytics. Furthermore, I am experienced in writing mathematical documentation, statistical modeling, consultancy and coaching.

@@ -32,6 +32,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 75%
+  icon: github
+  icon_pack: fab
+  name: GitHub
+- description: 90%
+  icon: chalkboard-teacher
+  icon_pack: fas
+  name: Presenting
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
