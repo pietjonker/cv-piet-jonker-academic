@@ -1,6 +1,6 @@
 # CV Piet Jonker
 
-Welcome to my GitHub repository. My CV website lives here and will be updated troughout time!
+Welcome to my GitHub repository. My CV website lives here and will be updated troughout time! Access it here: http://pietjonker.netlify.app/
 
 ## Questions
 
