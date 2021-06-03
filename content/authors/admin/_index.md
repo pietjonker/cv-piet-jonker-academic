@@ -64,8 +64,6 @@ email: "piet.jonker@hotmail.com"
 highlight_name: false
 ---
 
-I am educated in cognition/neuroscience and methodology/statistics and currently doing the research master Methodology and Statistics. 
+I am educated in cognition/neuroscience and methodology/statistics and currently doing the research master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. It is great to think about how to help researchers in the field perform well-designed studies and make solid conclusions based on those studies using statistics. Furthermore, this skill has great external validity to the commercial setting!
 
 In September I will start my career at **`a.s.r.`**, where I will develop myself in the **`data science traineeship`**. 
-
-I am interested in statistical advances, predictive modeling, data science and business analytics. Furthermore, I am experienced in writing mathematical documentation, statistical modeling, consultancy and coaching.
